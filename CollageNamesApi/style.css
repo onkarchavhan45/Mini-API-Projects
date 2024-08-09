@@ -1,0 +1,12 @@
+body{
+    background-color: bisque;
+
+}
+#input{
+    flex: content;
+    margin-top: 1rem;
+    margin-left: 2rem;
+}
+#list{
+    margin-left: 2rem;
+}
